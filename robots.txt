@@ -1,3 +1,12 @@
 User-agent: *
 
 Sitemap: https://sambosambo.github.io/sitemap.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part1.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part2.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part3.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part4.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part5.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part6.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part7.xml
+sitemap: https://sambosambo.github.io/sitemapsmall_part8.xml
+
